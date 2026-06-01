@@ -1,6 +1,6 @@
 name: jobs
 
-on:push
+on: push
 
 jobs:
   build:
